@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaCourse1.iml" filepath="$PROJECT_DIR$/.idea/JavaCourse1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/Week3/ParsingWeatherData/ParsingWeatherData.iml" filepath="$PROJECT_DIR$/JavaCourse1/Week3/ParsingWeatherData/ParsingWeatherData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/Week2/StringsFirstAssignment/StringsFirstAssignment.iml" filepath="$PROJECT_DIR$/JavaCourse1/Week2/StringsFirstAssignment/StringsFirstAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/Week2/StringsSecondAssignments/StringsSecondAssignments.iml" filepath="$PROJECT_DIR$/JavaCourse1/Week2/StringsSecondAssignments/StringsSecondAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/Week2/StringsThirdAssignments/StringsThirdAssignments.iml" filepath="$PROJECT_DIR$/JavaCourse1/Week2/StringsThirdAssignments/StringsThirdAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/Week1/Week1.iml" filepath="$PROJECT_DIR$/JavaCourse1/Week1/Week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/Week3/Week3.iml" filepath="$PROJECT_DIR$/JavaCourse1/Week3/Week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/Week4/Week4.iml" filepath="$PROJECT_DIR$/JavaCourse1/Week4/Week4.iml" />
+    </modules>
+  </component>
+</project>
