@@ -32,7 +32,7 @@ public class assignment1
             String reg=s.next();
             if(reg.equals("quit"))
                 break;
-            display("C:/Users/sanat/Desktop",reg);
+            display("/home",reg);
         }
 
 

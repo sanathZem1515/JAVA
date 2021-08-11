@@ -1,4 +1,5 @@
-public class SList<T> {
+public class SList<T>
+{
     Node<T> head = new Node<T>(null);
     public SListIterator<T> iterator(){
         return new SListIterator<T>(head);

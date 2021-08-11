@@ -2,28 +2,9 @@ import java.text.DateFormat;
 import java.text.ParseException;
 import java.util.*;
 import java.text.SimpleDateFormat;
-//import java.util.Date;
+
 public class assignment4
 {
-//    public static int check(String a,String b)
-//    {
-//        return a.compareTo(b);
-//    }
-//    public static boolean compare(GregorianCalendar a,GregorianCalendar b)
-//    {
-//
-//        int val=check(a.YEAR+"",b.YEAR+"");
-//        if(val==1)
-//        {
-//            return true;
-//        }
-//        else if()
-//    }
-//    public static void printed(GregorianCalendar a)
-//    {
-//        System.out.print(a.get)
-//    }
-
     public static void solve(String a,String b) throws ParseException
     {
         Date old1=new SimpleDateFormat("dd-MM-yyyy").parse(a);
@@ -75,8 +56,6 @@ public class assignment4
 
         for(int i1=0;i1<n;i1++)
         {
-//            solve(s.next(),s.next());
-//            System.out.println(i1);
             String a =s.next();
             String b=s.next();
 

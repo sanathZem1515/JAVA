@@ -4,13 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCourse2/JavaCourse2.iml" filepath="$PROJECT_DIR$/JavaCourse2/JavaCourse2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/JavaCourse1/Week3/ParsingWeatherData/ParsingWeatherData.iml" filepath="$PROJECT_DIR$/JavaCourse1/JavaCourse1/Week3/ParsingWeatherData/ParsingWeatherData.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/JavaCourse1/Week2/StringsFirstAssignment/StringsFirstAssignment.iml" filepath="$PROJECT_DIR$/JavaCourse1/JavaCourse1/Week2/StringsFirstAssignment/StringsFirstAssignment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/JavaCourse1/Week2/StringsSecondAssignments/StringsSecondAssignments.iml" filepath="$PROJECT_DIR$/JavaCourse1/JavaCourse1/Week2/StringsSecondAssignments/StringsSecondAssignments.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/JavaCourse1/Week2/StringsThirdAssignments/StringsThirdAssignments.iml" filepath="$PROJECT_DIR$/JavaCourse1/JavaCourse1/Week2/StringsThirdAssignments/StringsThirdAssignments.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/JavaCourse1/Week1/Week1.iml" filepath="$PROJECT_DIR$/JavaCourse1/JavaCourse1/Week1/Week1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/JavaCourse1/Week3/Week3.iml" filepath="$PROJECT_DIR$/JavaCourse1/JavaCourse1/Week3/Week3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/JavaCourse1/Week4/Week4.iml" filepath="$PROJECT_DIR$/JavaCourse1/JavaCourse1/Week4/Week4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/Week3/ParsingWeatherData/ParsingWeatherData.iml" filepath="$PROJECT_DIR$/JavaCourse1/Week3/ParsingWeatherData/ParsingWeatherData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/Week2/Assignment1/StringsFirstAssignment.iml" filepath="$PROJECT_DIR$/JavaCourse1/Week2/Assignment1/StringsFirstAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/Week2/StringsSecondAssignments/StringsSecondAssignments.iml" filepath="$PROJECT_DIR$/JavaCourse1/Week2/StringsSecondAssignments/StringsSecondAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/Week2/StringsThirdAssignments/StringsThirdAssignments.iml" filepath="$PROJECT_DIR$/JavaCourse1/Week2/StringsThirdAssignments/StringsThirdAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/Week1/Week1.iml" filepath="$PROJECT_DIR$/JavaCourse1/Week1/Week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/Week3/Week3.iml" filepath="$PROJECT_DIR$/JavaCourse1/Week3/Week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse1/Week4/Week4.iml" filepath="$PROJECT_DIR$/JavaCourse1/Week4/Week4.iml" />
     </modules>
   </component>
 </project>

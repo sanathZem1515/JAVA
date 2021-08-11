@@ -39,9 +39,14 @@ public class assignment3
 //        System.out.println("Standard output: ");
         while((s = input.readLine()) != null)
         {
-//            String temp[] = s.split("=");
-//            System.out.println(temp[2]);
+            String temp[] = s.split("=");
             System.out.println(s);
+            int len=s.length();
+
+            String time = s.substring(len-7,len-3);
+
+//            String time = temp[temp.length-1].substring(0,temp[3].length()-3);
+            System.out.println(time);
         }
 //        System.out.println("error (if any): ");
 //        while((s = Error.readLine()) != null)
